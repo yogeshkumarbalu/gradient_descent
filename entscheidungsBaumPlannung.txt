@@ -1,0 +1,7 @@
+# This file will be a place for the brainstorming of the parameters needed for the problem taken in kaglle #23
+
+1. Usage hours per day
+2. Rotor rotations per minute
+3. engine governor system on/off
+4. startup motor hp
+5. 
